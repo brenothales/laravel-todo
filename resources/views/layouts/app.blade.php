@@ -48,7 +48,7 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/todo') }}">
-                        Home
+                        SUPERO - Gerenciador de Tarefas
                     </a>
                 </div>
 
