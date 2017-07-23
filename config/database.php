@@ -63,7 +63,7 @@ return [
                 'charset'  => 'utf8',
                 'prefix'   => '',
                 'schema'   => 'public',
-                'port' => ('DB_PORT', '5432'),
+                'port' => '5432',
             ],
 
         // 'pgsql' => [
