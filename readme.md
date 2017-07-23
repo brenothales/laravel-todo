@@ -16,4 +16,4 @@
 ## Extra Simple Gerenciador de Tarefas Ruby
 
  Uma aplicação web MVC utilizando framework Ruby on Rails hospedado no heroku segue o link de trabalhos anteriores:
-- [Demo](http://supero.herokuapp.com/).
+- [Demo](https://lembretes.herokuapp.com/).
